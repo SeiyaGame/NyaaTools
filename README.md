@@ -7,6 +7,8 @@
 The script adds a button "Download" next to the top right nav bar which on-click emulates
 a mouse click on all selected torrent links appearing in the search results on this searchpage. This enables the user to download multiple torrents at once instead of clicking on every link individually.
 
+![NyaaTools](image_nyaa_tools.png)
+
 ## Use-case
 The user wants to download e.g. all episodes of a single anime. So he would refine his search
 parameters to ultimately only having all the episodes of the desired anime from one fansubber group with one resolution
