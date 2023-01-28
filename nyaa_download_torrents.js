@@ -5,7 +5,7 @@
 // @homepage    https://github.com/SeiyaGame/NyaaTools
 // @updateURL   https://raw.githubusercontent.com/SeiyaGame/NyaaTools/main/nyaa_download_torrents.js
 // @downloadURL https://raw.githubusercontent.com/SeiyaGame/NyaaTools/main/nyaa_download_torrents.js
-// @version     1.5.0
+// @version     1.5.1
 // @grant       none
 // @require     https://code.jquery.com/jquery-3.5.1.min.js
 // @include     *nyaa.si/*
