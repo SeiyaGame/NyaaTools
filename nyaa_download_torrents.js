@@ -27,7 +27,7 @@ function torrentAll() {
 
     $torrentRows.each(function () {
         const $downloadLink = $("a[href*='/download']", this);
-        const $viewLink = $("a[href*='/view']", this);
+        const $viewLink = $("a[href^='/view']:not([href*='#comments'])", this);
 
         if (!$downloadLink.length || !$viewLink.length) return;
         const $link = $downloadLink.attr("href");
